@@ -1,0 +1,21 @@
+{
+  "name": "christmas",
+  "version": "1.0.0",
+  "description": "Les exos du père noël !",
+  "scripts": {
+    "test": "babel-node spec/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greta-code-pizza/christmas-js.git"
+  },
+  "author": "Nicolas LE CHENIC",
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/node": "^7.6.3",
+    "@babel/preset-env": "^7.6.0",
+    "jasmine": "^3.5.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
