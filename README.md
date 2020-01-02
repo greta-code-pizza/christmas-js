@@ -14,3 +14,11 @@ Afin d'installer les packages nécessaires vous devez lancer la commande suivant
 npm install
 ```
 
+## Les tests
+
+Pour t'aider, le lutin "Pasicon" a rédigé une suite de tests qui se lance avec cette commande :
+
+```sh
+npm run test
+```
+
