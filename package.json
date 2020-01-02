@@ -14,8 +14,6 @@
     "@babel/core": "^7.6.0",
     "@babel/node": "^7.6.3",
     "@babel/preset-env": "^7.6.0",
-    "jasmine": "^3.5.0",
-    "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.9"
+    "jasmine": "^3.5.0"
   }
 }
