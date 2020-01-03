@@ -1,7 +1,7 @@
 import { magicGarage } from "../src/magicGarage";
 
 describe('magicGarage', () => {
-    it('return expected song for left ear ', () => {
+    it('return expected message', () => {
         let car = {
             type: 'voiture',
             color: 'bleu',
